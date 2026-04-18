@@ -27,7 +27,7 @@ from telegram.ext import (
 # =========================
 # НАСТРОЙКИ
 # =========================
-BOT_TOKEN = "8608199519:AAHkuEycs5O5kfws6WFvV_bdLSJR-vo-Ngk"
+BOT_TOKEN = "8608199519:AAFGS5Qs7oVG9dGceAXRPtw3wxrYmRPG1hk"
 ADMIN_CHAT_ID = 1096811893
 BOT_USERNAME = "priemzhalobshymkentbot"  # без @
 CHANNEL_URL = "https://t.me/gorodskieobrasheniashymkent"
